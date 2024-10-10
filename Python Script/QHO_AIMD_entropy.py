@@ -12,7 +12,7 @@ VACF: Stefan Bringuier https://zenodo.org/records/5261318 DOI: 10.5281/zenodo.52
 QHO: Alexopoulos, K. et al. 10.1021/acs.jpcc.6b00923
 Application: Bukowski B.C. et al. 10.1016/j.jcat.2018.07.012 
 
-
+v1 update planning
 Important notes - the input file should be pre-processed to only include production data on the adsorbate of interest
 It is your responsibility to ensure the simulation is properly equilibrated - non-equilibrium structures will change the VDOS
 and lead to larger than expect translational, rotational, and vibrational contributions to the VDOS
